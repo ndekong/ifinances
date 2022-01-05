@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#002e58"
+    android:gravity="center"
+    tools:context=".MainLogin">
+
+
+    <ImageView
+        android:id="@+id/ilogo"
+        android:layout_width="248dp"
+        android:layout_height="229dp"
+        android:layout_gravity="center"
+        android:contentDescription="@string/logo"
+        android:src="@drawable/ilogo"/>
+
+
+    <Button
+        android:id="@+id/Login"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="@string/login"
+        android:textColor="#002e58"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:background="@drawable/background"/>
+
+    <Button
+        android:id="@+id/register"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="@string/register"
+        android:textColor="#002e58"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:background="@drawable/background"/>
+
+
+</LinearLayout>

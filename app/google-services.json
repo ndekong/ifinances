@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "919341247274",
+    "project_id": "ifinances-22ab5",
+    "storage_bucket": "ifinances-22ab5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919341247274:android:c2e3a0503a2e0b641e4c53",
+        "android_client_info": {
+          "package_name": "com.example.ifinances"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919341247274-pkg3nkvlh8h1qfkv63f6661sm1n1m77p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf88AJ6QHrIwdhOGvbt2VbTywRy4pq5dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919341247274-pkg3nkvlh8h1qfkv63f6661sm1n1m77p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
